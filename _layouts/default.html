@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content={{ site.author }} />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">{{ site.title }}</a></h1>
+
+      <nav>
+        <ul>
+          <li><a href="/aboutus.html">日本Rubyの会について</a></li>
+          <li><a href="/constitution.html">日本Rubyの会会則</a></li>
+          <li><a href="/admission.html">入会案内</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      {{ content }}
+    </article>
+    <footer>
+      <p>&copy; 2011 {{ site.title }}</p>
+    </footer>
+  </body>
+</html>
+
