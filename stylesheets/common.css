@@ -83,7 +83,7 @@ th {
   }
 
 header {
-  margin: 275px 0 0 0;
+  margin: 200px 0 0 0;
   width: 450px;
   float: left;
   }
@@ -94,11 +94,9 @@ article p{
 
 article {
   background: url(../images/commonArticleBg.png) top left no-repeat;
-  min-width: 530px;
-  max-width: 800px;
-  height: 650px;
   margin: 10px;
   padding: 20px 20px 20px 30px;
+  height: 500px;
   overflow: auto;
   }
 
@@ -106,8 +104,8 @@ article h2 {
   font-weight: bold;
   font-size: 160%;
   background: url(../images/commonHeaderBg.png) bottom center repeat-x;
-  line-height: 70px;
-  height: 70px;
+  line-height: 40px;
+  height: 40px;
   margin: 20px 0;
   }
 
@@ -156,8 +154,8 @@ footer nav {
 
 footer nav li {
   float: left;
-  height: 40px;
-  line-height: 40px;
+  height: 30px;
+  line-height: 30px;
   padding: 5px 10px;
 	margin: 10px 20px;
 	}
@@ -175,6 +173,10 @@ footer nav li a:hover {
 	}
 
 /*--- id, class ----------------------------------------------*/
+
+#wrapper {
+  min-width: 980px;
+  }
 
 .fright {
   float: right;

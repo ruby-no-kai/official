@@ -7,13 +7,14 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   </head>
   <body>
-    <header>
-    <h1><a href="/"><img src="images/commonLogo.png" width="450" height="100" alt={{ site.title }}></a></h1>
-    </header>
-    <article>
-      (このページの内容は任意団体時代の内容です。近日中に一般社団法人用の内容に更新します - 2011/08/30)
-      {{ content }}
-    </article>
+    <div id="wrapper">
+      <header>
+      <h1><a href="/"><img src="images/commonLogo.png" width="450" height="100" alt={{ site.title }}></a></h1>
+      </header>
+      <article>
+        {{ content }}
+      </article>
+    </div>
     <footer>
       <nav>
         <ul>
