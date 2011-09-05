@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## 日本Rubyの会会則
+# 日本Rubyの会会則
 
 (名称)
 

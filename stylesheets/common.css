@@ -100,7 +100,7 @@ article {
   overflow: auto;
   }
 
-article h2 {
+article h1 {
   font-weight: bold;
   font-size: 160%;
   background: url(../images/commonHeaderBg.png) bottom center repeat-x;
@@ -109,14 +109,14 @@ article h2 {
   margin: 20px 0;
   }
 
-article h3 {
+article h2 {
   border-bottom: 1px solid #B41D23;
   margin: 30px 0 20px 0;
   font-weight: bold;
   font-size: 120%;
   }
 
-article h4 {
+article h3 {
   border-bottom: 1px dotted #B41D23;
   margin: 30px 0 20px 0;
   font-weight: bold;
