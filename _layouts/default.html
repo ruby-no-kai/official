@@ -25,5 +25,15 @@
       </nav>
       <p id="copyright">&copy; 2011 {{ site.title }}</p>
     </footer>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      jQuery(function($) {
+        $('nav li').each(function() {
+          if ($('a', this).attr('href') === location.pathname) {
+            $(this).addClass('selected');
+          }
+        });
+      });
+    </script>
   </body>
 </html>
