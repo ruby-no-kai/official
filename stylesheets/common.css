@@ -9,12 +9,18 @@
 	}
 
 html {
-	background: #4E1615;
+  width: 100%;
+  height: 100%;
 	}
 
 body {
-	background: #fff url(./images/commonBodyBg.png) top center repeat-x;
+  background-attachment: fixed;
+  background-position: left top 
+  width: 100%;
+  height: 100%;
 	line-height: 150%;
+  margin-top: 10px;
+  padding: 0 0 60px 0;
 	}
 
 a:link,
@@ -84,9 +90,64 @@ th {
   }
 
 header {
-  margin: 200px 0 0 0;
   width: 450px;
-  float: left;
+  position: fixed !important;
+  position: absolute;
+  margin-top: 200px;
+  top: 0;
+  left: 0;
+	display: block;
+	}
+
+address {
+	font-style:normal;
+	}
+
+nav {
+	margin: 0;
+	padding: 0;
+	}
+
+ul li {
+  list-style: none; }
+
+ol {
+  padding: 20px;
+  }
+
+strong {
+  font-weight: bold;
+  }
+
+pre {
+  padding: 20px;
+  border: 3px solid #edcfd1;
+  }
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #edcfd1;
+  }
+
+table tr,
+table tr th,
+table tr td {
+  padding: 10px;
+  border: 1px solid #edcfd1;
+  border-collapse: collapse;
+  }
+
+th {
+  background: #edcfd1;
+  }
+
+header {
+  width: 450px;
+  position: fixed !important;
+  position: absolute;
+  margin-top: 200px;
+  top: 0;
+  left: 0;
   }
 
 article p{
@@ -94,11 +155,16 @@ article p{
 	}
 
 article {
-  background: url(../images/commonArticleBg.png) top left no-repeat;
-  margin: 10px;
-  padding: 20px 20px 20px 30px;
-  height: 500px;
-  overflow: auto;
+  border-left: 1px solid #b31d23;
+    }
+
+article p{
+	margin-bottom: 20px;
+	}
+
+article {
+  margin-left: 500px;
+  padding: 0px 20px 20px 30px;
   }
 
 article h1 {
@@ -136,9 +202,14 @@ article a {
   }
 
 footer {
+  position: fixed !important;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 	clear: both;
+  width: 100%;
+  bottom:0px;
 	text-decoration: none;
-	padding: 10px;
 	margin-top: 10px;
 	background-color: #B41D23;
   background: linear-gradient(rgba(180,29,35,1.0), rgba(78,22,21,1.0));
@@ -149,10 +220,6 @@ footer {
 footer * {
   color: #fff;
   }
-
-footer nav {
-	width: 980px;
-	}
 
 footer nav li {
   float: left;
@@ -218,6 +285,6 @@ footer nav li a:hover {
   border-top: 1px solid #8e4747;
   clear: both;
   min-width: 980px;
-  padding: 10px 0;
+  padding: 10px;
   text-align: right;
   }
