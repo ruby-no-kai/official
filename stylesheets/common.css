@@ -33,6 +33,7 @@ a:link img,
 a:visited img,
 a:hover img,
 a:active img {
+  border: none;
 	text-decoration: none;
 	}
 
@@ -139,6 +140,7 @@ footer {
 	text-decoration: none;
 	padding: 10px;
 	margin-top: 10px;
+	background-color: #B41D23;
   background: linear-gradient(rgba(180,29,35,1.0), rgba(78,22,21,1.0));
   background: -moz-linear-gradient(rgba(180,29,35,1.0), rgba(78,22,21,1.0));
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(180,29,35,1.0)), to(rgba(78,22,21,1.0))); 
@@ -205,6 +207,7 @@ footer nav li a:hover {
 	}
 
 .selected {
+	background-color: #7c1518;
   background: rgba(0,0,0,0.2);
 	-webkit-border-radius: 7px;
   -moz-border-radius: 7px;
