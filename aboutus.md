@@ -24,4 +24,4 @@ layout: default
 
 ## 入会(Rubyの会メーリングリストへの参加)について
 
-入会については[入会案内](/admission.html)を参照してください。
+入会については[入会案内](/mailinglist.html)を参照してください。
