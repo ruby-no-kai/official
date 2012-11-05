@@ -16,7 +16,7 @@ layout: default
 
 * Rubyist Magazine (るびま)の発行
 * Ruby リファレンスマニュアル刷新計画
-* <s>日本 Ruby 会議の開催</s>
+* RubyKaigiの開催
 * 地域 Ruby 会議の支援
 * 各種イベントへの参加
 
