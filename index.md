@@ -18,6 +18,7 @@ layout: default
 * Ruby リファレンスマニュアル刷新計画
 * RubyKaigiの開催
 * 地域 Ruby 会議の支援
+* 日本での RailsGirls ワークショップ開催の支援
 * 各種イベントへの参加
 
 日本Rubyの会についての詳細については[日本Rubyの会について](/aboutus.html)を参照してください。
