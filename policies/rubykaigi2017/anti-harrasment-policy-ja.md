@@ -27,6 +27,4 @@ RubyKaigi は、だれもがハラスメントを受けずに参加できるカ�
 
 スタッフは、参加者が必要とする時には会場警備や警察への連絡、エスコートその他の必要な手助けを行い、ハラスメントに直面している人の会期中の安全に努めます。
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
-
-Harassment and other policy violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
+ハラスメントに代表されるポリシー違反は、このイベントが皆さんに提供したい価値を毀損してしまいます。私たちのイベントは皆さんが楽しめる場であってほしい。皆さんの参加があってこそ、このイベントはより良いものになります。
