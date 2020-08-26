@@ -19,8 +19,8 @@ The Entity shall use personal information for the following purposes:
 	(7)	Improvement of the Entity’s service and development of new service, etc.;
 	(8)	Labor management and the Entity’s internal procedures (with respect to personal information of directors, officers and employees of the Entity);
 	(9)	Shareholder management and procedures under Companies Act and other applicable laws (with respect to personal information of shareholders, holders of share options, etc.)
-	(10)	Creation of statistics data which is processed so that no particular individuals shall be identified, in connection with the Entity’s service; or
-	(11)	Other purposes related to the above purposes.
+	(10) Creation of statistics data which is processed so that no particular individuals shall be identified, in connection with the Entity’s service; or
+	(11) Other purposes related to the above purposes.
 
 ## Article 3.	CHANGE OF PURPOSE OF USE OF PERSONAL INFORMATION
 
