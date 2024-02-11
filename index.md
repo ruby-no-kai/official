@@ -24,4 +24,4 @@ layout: default
 
 日本Rubyの会についての詳細については[日本Rubyの会について](/aboutus.html)を参照してください。
 
-日本Rubyの会についての最新情報については[公式Wiki](https://github.com/ruby-no-kai/official/wiki)を参照してください。
+日本Rubyの会についての最新情報については[公式Wiki](https://scrapbox.io/ruby-no-kai/)を参照してください。
