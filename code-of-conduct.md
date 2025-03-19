@@ -15,3 +15,7 @@
 日本Rubyの会の個別のイベントや活動において独自に行動規範やポリシーが定められている場合は、そちらにも従ってください。
 
 この規範は、[Rubyコミュニティの規範のガイドライン](https://www.ruby-lang.org/ja/conduct/)をベースに更新しました。
+
+Rubyコミュニティの活動に際して、この行動規範にあたるような内容で相談する先がなくて困っている個人あるいは団体がいれば、以下からご相談ください。
+
+[Rubyの会ハラスメント等相談窓口](https://docs.google.com/forms/d/e/1FAIpQLSccLeyZY4wi_wvHK9ACAdXARnWqqL7BuR3c3zWgJjlMkUUH9A/viewform)
